@@ -1,3 +1,5 @@
+<!-- Generated from each repo's name, description and topics; hand edits are overwritten. To change a row, edit that repo's description, name or topics instead. -->
+
 # Gaskony-Home
 
 The house and the home lab.
